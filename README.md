@@ -1,3 +1,2 @@
 # demo-generics
-Testando a implementação do generics
- Adicionar código
+Testando a implementação do generics 
